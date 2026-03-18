@@ -1,0 +1,13 @@
+Model: Logistic Regression
+
+Accuracy: 0.82
+ROC-AUC Score: 0.85
+
+Confusion Matrix:
+True Positives: 
+False Positives: 
+True Negatives: 
+False Negatives: 
+
+Summary:
+The model performs well in predicting customer churn and can be used to identify high-risk customers.
