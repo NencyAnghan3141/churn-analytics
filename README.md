@@ -30,7 +30,7 @@ This project analyzes customer churn in a telecom company using data analytics a
 ### 🔍 Revenue Risk and Retenion Strategy
 ![Insights](powerbi/screenshots/4.png)
 
-### 🔍 Machine Alogorithms
+### 📊 Machine Alogorithms
 ![Machine Algorithms](powerbi/screenshots/6.png)
 
 ## 🔹 Author
