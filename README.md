@@ -23,6 +23,15 @@ This project analyzes customer churn in a telecom company using data analytics a
 
 ![Dashboard](powerbi/screenshots/1.png)
 
+### 📈 Key Drivers of customer churn
+![KPI](powerbi/screenshots/2.png)
+
+
+### 🔍 Revenue Risk and Retenion Strategy
+![Insights](powerbi/screenshots/4.png)
+
+### 🔍 Machine Alogorithms
+![Machine Algorithms](powerbi/screenshots/6.png)
 
 ## 🔹 Author
 Nency Anghan
