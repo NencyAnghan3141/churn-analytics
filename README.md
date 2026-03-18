@@ -33,5 +33,13 @@ This project analyzes customer churn in a telecom company using data analytics a
 ### 📊 Machine Alogorithms
 ![Machine Algorithms](powerbi/screenshots/6.png)
 
+## 🔹 Machine Learning Results
+
+- Model: Logistic Regression  
+- Accuracy: 82%  
+- ROC-AUC Score: 0.85  
+
+The model predicts customer churn effectively and helps identify high-risk customers.
+
 ## 🔹 Author
 Nency Anghan
