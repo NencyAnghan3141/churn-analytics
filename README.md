@@ -19,5 +19,10 @@ This project analyzes customer churn in a telecom company using data analytics a
 - Higher monthly charges increase churn
 - Long-term customers are more stable
 
+## 🔹 Dashboard Preview
+
+![Dashboard](powerbi/screenshots/1.png)
+
+
 ## 🔹 Author
 Nency Anghan
